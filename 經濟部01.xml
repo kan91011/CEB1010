@@ -1,0 +1,1332 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE tw-patent-rightsI SYSTEM "ftp://s220ftp.tipo.gov.tw/PatentRightsI/patentrightsi-A104.1.0.dtd">
+<API>
+  <version>1.0</version>
+  <status>ok</status>
+  <message />
+  <top>10</top>
+  <skip>0</skip>
+  <order-by>appl-no</order-by>
+  <total-count>624</total-count>
+  <tw-patent-rightsI page-count="10" create-date="2020/11/20">
+    <patentcontent sequence="1">
+      <publication-reference>
+        <notice-no>200806726</notice-no>
+        <notice-volno>6</notice-volno>
+        <notice-isuno>3</notice-isuno>
+        <notice-date>2008/02/01</notice-date>
+        <publish-no>I498367</publish-no>
+        <publish-volno>42</publish-volno>
+        <publish-isuno>25</publish-isuno>
+        <publish-date>2015/09/01</publish-date>
+      </publication-reference>
+      <application-reference>
+        <appl-no>096110624</appl-no>
+        <appl-date>2007/03/27</appl-date>
+        <first-date>2007/03/27</first-date>
+        <foreign-language />
+        <foreign-language-desc />
+        <appl-class>1</appl-class>
+        <appl-class-desc>發明</appl-class-desc>
+        <material-appl-date>2007/03/27</material-appl-date>
+        <material-flag>1</material-flag>
+        <faplexm-date>2012/01/19</faplexm-date>
+        <reappl-date>2012/03/29</reappl-date>
+        <raplexam-date>2015/05/11</raplexam-date>
+        <agree-flag />
+        <twins-flag />
+      </application-reference>
+      <patent-title>
+        <patent-name-chinese>含分散有奈米黏土的聚合物組成物之安裝基板</patent-name-chinese>
+        <patent-name-english>Mounting substrate containing polymer composition with nanoclays dispersed therein</patent-name-english>
+      </patent-title>
+      <patent-right>
+        <licence-date>2015/09/01</licence-date>
+        <relicence-date />
+        <patent-no>I498367</patent-no>
+        <patent-bdate>2015/09/01</patent-bdate>
+        <patent-edate>2027/03/26</patent-edate>
+        <charge-expir-date>2018/08/31</charge-expir-date>
+        <charge-expir-year>3</charge-expir-year>
+        <rent-status>0</rent-status>
+        <mortgage-status>0</mortgage-status>
+        <transfer-status>0</transfer-status>
+        <inherit-status>0</inherit-status>
+        <trust-status>0</trust-status>
+        <opposition-status>0</opposition-status>
+        <nullity-status>0</nullity-status>
+        <continue-status>0</continue-status>
+        <expand-status>0</expand-status>
+        <cancel-date>2018/09/01</cancel-date>
+        <cancel-result>48105</cancel-result>
+        <revoke-date />
+        <revoke-code />
+        <dep-patent-class />
+        <dep-appl-no />
+      </patent-right>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>英特爾股份有限公司</chinese-name>
+            <english-name>INTEL CORPORATION</english-name>
+            <address>美國</address>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+            <english-address>2200 MISSION COLLEGE BLVD., SANTA CLARA, CA 95052, USA</english-address>
+          </applicant>
+        </applicants>
+        <inventors>
+          <inventor sequence="1">
+            <chinese-name>普拉維恩　比瑪拉傑</chinese-name>
+            <english-name>BHIMARAJ, PRAVEEN</english-name>
+            <english-country>IN</english-country>
+            <chinese-country>印度</chinese-country>
+          </inventor>
+          <inventor sequence="2">
+            <chinese-name>歐瑪　比海爾</chinese-name>
+            <english-name>BCHIR, OMAR J.</english-name>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+          </inventor>
+        </inventors>
+        <agents>
+          <agent sequence="1">
+            <chinese-name>林志剛</chinese-name>
+            <english-name />
+            <address>臺北市中山區南京東路2段125號7樓</address>
+            <english-country>TW</english-country>
+            <chinese-country>中華民國</chinese-country>
+          </agent>
+        </agents>
+      </parties>
+      <classification-ipc>
+        <ipc sequence="1">
+          <ipc-full>C08K3/34</ipc-full>
+          <ipc-section>C</ipc-section>
+          <ipc-class>08</ipc-class>
+          <ipc-subclass>K</ipc-subclass>
+          <ipc-main-group>3</ipc-main-group>
+          <ipc-group>34</ipc-group>
+          <ipc-version>200601</ipc-version>
+        </ipc>
+        <ipc sequence="2">
+          <ipc-full>C08J3/20</ipc-full>
+          <ipc-section>C</ipc-section>
+          <ipc-class>08</ipc-class>
+          <ipc-subclass>J</ipc-subclass>
+          <ipc-main-group>3</ipc-main-group>
+          <ipc-group>20</ipc-group>
+          <ipc-version>200601</ipc-version>
+        </ipc>
+        <ipc sequence="3">
+          <ipc-full>C08L79/04</ipc-full>
+          <ipc-section>C</ipc-section>
+          <ipc-class>08</ipc-class>
+          <ipc-subclass>L</ipc-subclass>
+          <ipc-main-group>79</ipc-main-group>
+          <ipc-group>04</ipc-group>
+          <ipc-version>200601</ipc-version>
+        </ipc>
+        <ipc sequence="4">
+          <ipc-full>H01L23/00</ipc-full>
+          <ipc-section>H</ipc-section>
+          <ipc-class>01</ipc-class>
+          <ipc-subclass>L</ipc-subclass>
+          <ipc-main-group>23</ipc-main-group>
+          <ipc-group>00</ipc-group>
+          <ipc-version>200601</ipc-version>
+        </ipc>
+      </classification-ipc>
+      <link>
+        <patentisuregspecxmla-url>ftp://s220ftp.tipo.gov.tw/PatentIsuRegSpecXMLA_042025/096110624.xml</patentisuregspecxmla-url>
+        <patentpubmtiff-url>ftp://s220ftp.tipo.gov.tw/PatentPubMTIFF_042025/I498367.tif</patentpubmtiff-url>
+        <patentpubxml-url>ftp://s220ftp.tipo.gov.tw/PatentPubXML_042025/4225I498367/096110624-A0305.xml</patentpubxml-url>
+        <patentisuregspecmtiff-url>ftp://s220ftp.tipo.gov.tw/PatentIsuRegSpecMTIFF_042025/096110624.tif</patentisuregspecmtiff-url>
+      </link>
+    </patentcontent>
+    <patentcontent sequence="2">
+      <publication-reference>
+        <notice-no>200818832</notice-no>
+        <notice-volno>6</notice-volno>
+        <notice-isuno>8</notice-isuno>
+        <notice-date>2008/04/16</notice-date>
+        <publish-no>I486044</publish-no>
+        <publish-volno>42</publish-volno>
+        <publish-isuno>15</publish-isuno>
+        <publish-date>2015/05/21</publish-date>
+      </publication-reference>
+      <application-reference>
+        <appl-no>096112052</appl-no>
+        <appl-date>2007/04/04</appl-date>
+        <first-date>2007/04/04</first-date>
+        <foreign-language />
+        <foreign-language-desc />
+        <appl-class>1</appl-class>
+        <appl-class-desc>發明</appl-class-desc>
+        <material-appl-date>2007/04/04</material-appl-date>
+        <material-flag>1</material-flag>
+        <faplexm-date>2013/11/19</faplexm-date>
+        <reappl-date>2014/01/15</reappl-date>
+        <raplexam-date>2015/03/30</raplexam-date>
+        <agree-flag />
+        <twins-flag />
+      </application-reference>
+      <patent-title>
+        <patent-name-chinese>用以將經加密媒體資料解密的裝置與系統</patent-name-chinese>
+        <patent-name-english>APPARATUS AND SYSTEM FOR DECRYPTING ENCRYPTED　MEDIA INFORMATION</patent-name-english>
+      </patent-title>
+      <patent-right>
+        <licence-date>2015/05/21</licence-date>
+        <relicence-date />
+        <patent-no>I486044</patent-no>
+        <patent-bdate>2015/05/21</patent-bdate>
+        <patent-edate>2027/04/03</patent-edate>
+        <charge-expir-date>2017/05/20</charge-expir-date>
+        <charge-expir-year>2</charge-expir-year>
+        <rent-status>0</rent-status>
+        <mortgage-status>0</mortgage-status>
+        <transfer-status>0</transfer-status>
+        <inherit-status>0</inherit-status>
+        <trust-status>0</trust-status>
+        <opposition-status>0</opposition-status>
+        <nullity-status>0</nullity-status>
+        <continue-status>0</continue-status>
+        <expand-status>0</expand-status>
+        <cancel-date>2017/05/21</cancel-date>
+        <cancel-result>48105</cancel-result>
+        <revoke-date />
+        <revoke-code />
+        <dep-patent-class />
+        <dep-appl-no />
+      </patent-right>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>英特爾公司</chinese-name>
+            <english-name>INTEL CORPORATION</english-name>
+            <address>美國</address>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+            <english-address>2200 MISSION COLLEGE BLVD., SANTA CLARA, CA, U. S. A.</english-address>
+          </applicant>
+        </applicants>
+        <inventors>
+          <inventor sequence="1">
+            <chinese-name>蒙奎亞　彼特</chinese-name>
+            <english-name>MUNGUIA, PETER</english-name>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+          </inventor>
+          <inventor sequence="2">
+            <chinese-name>布朗　史帝文</chinese-name>
+            <english-name>BROWN, STEVE</english-name>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+          </inventor>
+          <inventor sequence="3">
+            <chinese-name>哈特　德海拉傑</chinese-name>
+            <english-name>BHATT, DHIRAJ</english-name>
+            <english-country>IN</english-country>
+            <chinese-country>印度</chinese-country>
+          </inventor>
+          <inventor sequence="4">
+            <chinese-name>路加諾弗　迪米特里</chinese-name>
+            <english-name>LOUKIANOV, DMITRII</english-name>
+            <english-country>RU</english-country>
+            <chinese-country>俄羅斯聯邦</chinese-country>
+          </inventor>
+        </inventors>
+        <agents>
+          <agent sequence="1">
+            <chinese-name>惲軼群</chinese-name>
+            <english-name />
+            <address>臺北市松山區南京東路3段248號7樓</address>
+            <english-country>TW</english-country>
+            <chinese-country>中華民國</chinese-country>
+          </agent>
+          <agent sequence="2">
+            <chinese-name>陳文郎</chinese-name>
+            <english-name />
+            <address>臺北市松山區南京東路3段248號7樓</address>
+            <english-country>TW</english-country>
+            <chinese-country>中華民國</chinese-country>
+          </agent>
+        </agents>
+      </parties>
+      <classification-ipc>
+        <ipc sequence="1">
+          <ipc-full>H04L9/00</ipc-full>
+          <ipc-section>H</ipc-section>
+          <ipc-class>04</ipc-class>
+          <ipc-subclass>L</ipc-subclass>
+          <ipc-main-group>9</ipc-main-group>
+          <ipc-group>00</ipc-group>
+          <ipc-version>200601</ipc-version>
+        </ipc>
+        <ipc sequence="2">
+          <ipc-full>H04N7/16</ipc-full>
+          <ipc-section>H</ipc-section>
+          <ipc-class>04</ipc-class>
+          <ipc-subclass>N</ipc-subclass>
+          <ipc-main-group>7</ipc-main-group>
+          <ipc-group>16</ipc-group>
+          <ipc-version>201101</ipc-version>
+        </ipc>
+      </classification-ipc>
+      <link>
+        <patentisuregspecxmla-url>ftp://s220ftp.tipo.gov.tw/PatentIsuRegSpecXMLA_042015/096112052.xml</patentisuregspecxmla-url>
+        <patentpubmtiff-url>ftp://s220ftp.tipo.gov.tw/PatentPubMTIFF_042015/I486044.tif</patentpubmtiff-url>
+        <patentpubxml-url>ftp://s220ftp.tipo.gov.tw/PatentPubXML_042015/4215I486044/096112052-A0305.xml</patentpubxml-url>
+        <patentisuregspecmtiff-url>ftp://s220ftp.tipo.gov.tw/PatentIsuRegSpecMTIFF_042015/096112052.tif</patentisuregspecmtiff-url>
+      </link>
+    </patentcontent>
+    <patentcontent sequence="3">
+      <publication-reference>
+        <notice-no>200814578</notice-no>
+        <notice-volno>6</notice-volno>
+        <notice-isuno>6</notice-isuno>
+        <notice-date>2008/03/16</notice-date>
+        <publish-no>I479822</publish-no>
+        <publish-volno>42</publish-volno>
+        <publish-isuno>10</publish-isuno>
+        <publish-date>2015/04/01</publish-date>
+      </publication-reference>
+      <application-reference>
+        <appl-no>096130244</appl-no>
+        <appl-date>2007/08/15</appl-date>
+        <first-date>2007/08/15</first-date>
+        <foreign-language />
+        <foreign-language-desc />
+        <appl-class>1</appl-class>
+        <appl-class-desc>發明</appl-class-desc>
+        <material-appl-date>2010/08/06</material-appl-date>
+        <material-flag>1</material-flag>
+        <faplexm-date>2014/12/05</faplexm-date>
+        <reappl-date />
+        <raplexam-date />
+        <agree-flag />
+        <twins-flag />
+      </application-reference>
+      <patent-title>
+        <patent-name-chinese>ＭＩＭＯ無線通信系統中有效率預編碼反饋提供方法及裝置</patent-name-chinese>
+        <patent-name-english>METHOD AND APPARATUS FOR PROVIDING EFFICIENT PRECODING FEEDBACK IN A MIMO WIRELESS COMMUNICATION SYSTEM</patent-name-english>
+      </patent-title>
+      <patent-right>
+        <licence-date>2015/04/01</licence-date>
+        <relicence-date />
+        <patent-no>I479822</patent-no>
+        <patent-bdate>2015/04/01</patent-bdate>
+        <patent-edate>2027/08/14</patent-edate>
+        <charge-expir-date>2019/03/31</charge-expir-date>
+        <charge-expir-year>4</charge-expir-year>
+        <rent-status>0</rent-status>
+        <mortgage-status>0</mortgage-status>
+        <transfer-status>1</transfer-status>
+        <inherit-status>0</inherit-status>
+        <trust-status>0</trust-status>
+        <opposition-status>0</opposition-status>
+        <nullity-status>0</nullity-status>
+        <continue-status>0</continue-status>
+        <expand-status>0</expand-status>
+        <cancel-date>2019/04/01</cancel-date>
+        <cancel-result>48105</cancel-result>
+        <revoke-date />
+        <revoke-code />
+        <dep-patent-class />
+        <dep-appl-no />
+      </patent-right>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>英特爾股份有限公司</chinese-name>
+            <english-name>INTEL CORPORATION</english-name>
+            <address>美國</address>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+            <english-address>2200 MISSION COLLEGE BLVD., SANTA CLARA, CA 95052, USA</english-address>
+          </applicant>
+        </applicants>
+        <inventors>
+          <inventor sequence="1">
+            <chinese-name>潘俊霖</chinese-name>
+            <english-name>KYLE JUNG-LIN PAN</english-name>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+          </inventor>
+          <inventor sequence="2">
+            <chinese-name>羅伯特　林德　奧勒森</chinese-name>
+            <english-name>ROBERT LIND OLESEN</english-name>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+          </inventor>
+          <inventor sequence="3">
+            <chinese-name>唐納爾德　格利可</chinese-name>
+            <english-name>DONALD M. GRIECO</english-name>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+          </inventor>
+        </inventors>
+        <agents>
+          <agent sequence="1">
+            <chinese-name>林志剛</chinese-name>
+            <english-name />
+            <address>臺北市中山區南京東路2段125號7樓</address>
+            <english-country>TW</english-country>
+            <chinese-country>中華民國</chinese-country>
+          </agent>
+        </agents>
+      </parties>
+      <classification-ipc>
+        <ipc sequence="1">
+          <ipc-full>H04B7/04</ipc-full>
+          <ipc-section>H</ipc-section>
+          <ipc-class>04</ipc-class>
+          <ipc-subclass>B</ipc-subclass>
+          <ipc-main-group>7</ipc-main-group>
+          <ipc-group>04</ipc-group>
+          <ipc-version>200601</ipc-version>
+        </ipc>
+        <ipc sequence="2">
+          <ipc-full>H04B1/7085</ipc-full>
+          <ipc-section>H</ipc-section>
+          <ipc-class>04</ipc-class>
+          <ipc-subclass>B</ipc-subclass>
+          <ipc-main-group>1</ipc-main-group>
+          <ipc-group>7085</ipc-group>
+          <ipc-version>201101</ipc-version>
+        </ipc>
+        <ipc sequence="3">
+          <ipc-full>H04L27/26</ipc-full>
+          <ipc-section>H</ipc-section>
+          <ipc-class>04</ipc-class>
+          <ipc-subclass>L</ipc-subclass>
+          <ipc-main-group>27</ipc-main-group>
+          <ipc-group>26</ipc-group>
+          <ipc-version>200601</ipc-version>
+        </ipc>
+      </classification-ipc>
+      <link>
+        <patentisuregspecxmla-url>ftp://s220ftp.tipo.gov.tw/PatentIsuRegSpecXMLA_042010/096130244.xml</patentisuregspecxmla-url>
+        <patentpubmtiff-url>ftp://s220ftp.tipo.gov.tw/PatentPubMTIFF_042010/I479822.tif</patentpubmtiff-url>
+        <patentpubxml-url>ftp://s220ftp.tipo.gov.tw/PatentPubXML_042010/4210I479822/096130244-A0305.xml</patentpubxml-url>
+        <patentisuregspecmtiff-url>ftp://s220ftp.tipo.gov.tw/PatentIsuRegSpecMTIFF_042010/096130244.tif</patentisuregspecmtiff-url>
+      </link>
+    </patentcontent>
+    <patentcontent sequence="4">
+      <publication-reference>
+        <notice-no>200841804</notice-no>
+        <notice-volno>6</notice-volno>
+        <notice-isuno>20</notice-isuno>
+        <notice-date>2008/10/16</notice-date>
+        <publish-no>I471079</publish-no>
+        <publish-volno>42</publish-volno>
+        <publish-isuno>3</publish-isuno>
+        <publish-date>2015/01/21</publish-date>
+      </publication-reference>
+      <application-reference>
+        <appl-no>096143697</appl-no>
+        <appl-date>2007/11/19</appl-date>
+        <first-date>2007/11/19</first-date>
+        <foreign-language />
+        <foreign-language-desc />
+        <appl-class>1</appl-class>
+        <appl-class-desc>發明</appl-class-desc>
+        <material-appl-date>2007/11/19</material-appl-date>
+        <material-flag>1</material-flag>
+        <faplexm-date>2012/10/08</faplexm-date>
+        <reappl-date>2012/12/07</reappl-date>
+        <raplexam-date>2014/10/27</raplexam-date>
+        <agree-flag />
+        <twins-flag />
+      </application-reference>
+      <patent-title>
+        <patent-name-chinese>用於ＬＧＡ插座的橫向力反負載機構</patent-name-chinese>
+        <patent-name-english>LATERAL FORCE COUNTERING LOAD MECHANISM FOR LGA SOCKETS</patent-name-english>
+      </patent-title>
+      <patent-right>
+        <licence-date>2015/01/21</licence-date>
+        <relicence-date />
+        <patent-no>I471079</patent-no>
+        <patent-bdate>2015/01/21</patent-bdate>
+        <patent-edate>2027/11/18</patent-edate>
+        <charge-expir-date>2022/01/20</charge-expir-date>
+        <charge-expir-year>7</charge-expir-year>
+        <rent-status>0</rent-status>
+        <mortgage-status>0</mortgage-status>
+        <transfer-status>0</transfer-status>
+        <inherit-status>0</inherit-status>
+        <trust-status>0</trust-status>
+        <opposition-status>0</opposition-status>
+        <nullity-status>0</nullity-status>
+        <continue-status>0</continue-status>
+        <expand-status>0</expand-status>
+        <cancel-date />
+        <cancel-result />
+        <revoke-date />
+        <revoke-code />
+        <dep-patent-class />
+        <dep-appl-no />
+      </patent-right>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>英特爾股份有限公司</chinese-name>
+            <english-name>INTEL CORPORATION</english-name>
+            <address>美國</address>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+            <english-address>2200 MISSION COLLEGE BLVD., SANTA CLARA, CA 95052, USA</english-address>
+          </applicant>
+        </applicants>
+        <inventors>
+          <inventor sequence="1">
+            <chinese-name>羅伯特　馬丁森</chinese-name>
+            <english-name>MARTINSON, ROBERT R.</english-name>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+          </inventor>
+          <inventor sequence="2">
+            <chinese-name>李宇鵬</chinese-name>
+            <english-name>LI, YUPENG</english-name>
+            <english-country>CN</english-country>
+            <chinese-country>中國大陸</chinese-country>
+          </inventor>
+          <inventor sequence="3">
+            <chinese-name>曼地　密斯塔卡威</chinese-name>
+            <english-name>MISTAKAWI, MANDY</english-name>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+          </inventor>
+          <inventor sequence="4">
+            <chinese-name>湯瑪斯　路登</chinese-name>
+            <english-name>RUTTAN, THOMAS</english-name>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+          </inventor>
+          <inventor sequence="5">
+            <chinese-name>鄭鐵宇</chinese-name>
+            <english-name>ZHENG, TIEYU</english-name>
+            <english-country>CN</english-country>
+            <chinese-country>中國大陸</chinese-country>
+          </inventor>
+        </inventors>
+        <agents>
+          <agent sequence="1">
+            <chinese-name>林志剛</chinese-name>
+            <english-name />
+            <address>臺北市中山區南京東路2段125號7樓</address>
+            <english-country>TW</english-country>
+            <chinese-country>中華民國</chinese-country>
+          </agent>
+        </agents>
+      </parties>
+      <classification-ipc>
+        <ipc sequence="1">
+          <ipc-full>H05K7/10</ipc-full>
+          <ipc-section>H</ipc-section>
+          <ipc-class>05</ipc-class>
+          <ipc-subclass>K</ipc-subclass>
+          <ipc-main-group>7</ipc-main-group>
+          <ipc-group>10</ipc-group>
+          <ipc-version>200601</ipc-version>
+        </ipc>
+      </classification-ipc>
+      <link>
+        <patentisuregspecxmla-url>ftp://s220ftp.tipo.gov.tw/PatentIsuRegSpecXMLA_042003/096143697.xml</patentisuregspecxmla-url>
+        <patentpubmtiff-url>ftp://s220ftp.tipo.gov.tw/PatentPubMTIFF_042003/I471079.tif</patentpubmtiff-url>
+        <patentpubxml-url>ftp://s220ftp.tipo.gov.tw/PatentPubXML_042003/4203I471079/096143697-A0305.xml</patentpubxml-url>
+        <patentisuregspecmtiff-url>ftp://s220ftp.tipo.gov.tw/PatentIsuRegSpecMTIFF_042003/096143697.tif</patentisuregspecmtiff-url>
+      </link>
+    </patentcontent>
+    <patentcontent sequence="5">
+      <publication-reference>
+        <notice-no>200838326</notice-no>
+        <notice-volno>6</notice-volno>
+        <notice-isuno>18</notice-isuno>
+        <notice-date>2008/09/16</notice-date>
+        <publish-no>I474749</publish-no>
+        <publish-volno>42</publish-volno>
+        <publish-isuno>6</publish-isuno>
+        <publish-date>2015/02/21</publish-date>
+      </publication-reference>
+      <application-reference>
+        <appl-no>096144528</appl-no>
+        <appl-date>2007/11/23</appl-date>
+        <first-date>2007/11/23</first-date>
+        <foreign-language />
+        <foreign-language-desc />
+        <appl-class>1</appl-class>
+        <appl-class-desc>發明</appl-class-desc>
+        <material-appl-date>2007/11/23</material-appl-date>
+        <material-flag>1</material-flag>
+        <faplexm-date>2012/08/30</faplexm-date>
+        <reappl-date>2012/10/31</reappl-date>
+        <raplexam-date>2014/10/24</raplexam-date>
+        <agree-flag />
+        <twins-flag />
+      </application-reference>
+      <patent-title>
+        <patent-name-chinese>用於跨越無線網路中之基本服務組進行之無損封包轉移的技術</patent-name-chinese>
+        <patent-name-english>TECHNIQUES FOR LOSSLESS PACKET TRANSITION ACROSS BASIC SERVICE SETS IN WIRELESS NETWORKS</patent-name-english>
+      </patent-title>
+      <patent-right>
+        <licence-date>2015/02/21</licence-date>
+        <relicence-date />
+        <patent-no>I474749</patent-no>
+        <patent-bdate>2015/02/21</patent-bdate>
+        <patent-edate>2027/11/22</patent-edate>
+        <charge-expir-date>2019/02/20</charge-expir-date>
+        <charge-expir-year>4</charge-expir-year>
+        <rent-status>0</rent-status>
+        <mortgage-status>0</mortgage-status>
+        <transfer-status>0</transfer-status>
+        <inherit-status>0</inherit-status>
+        <trust-status>0</trust-status>
+        <opposition-status>0</opposition-status>
+        <nullity-status>0</nullity-status>
+        <continue-status>0</continue-status>
+        <expand-status>0</expand-status>
+        <cancel-date>2019/02/21</cancel-date>
+        <cancel-result>48105</cancel-result>
+        <revoke-date />
+        <revoke-code />
+        <dep-patent-class />
+        <dep-appl-no />
+      </patent-right>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>英特爾公司</chinese-name>
+            <english-name>INTEL CORPORATION</english-name>
+            <address>美國</address>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+            <english-address>2200 MISSION COLLEGE BLVD., SANTA CLARA, CA, U. S. A.</english-address>
+          </applicant>
+        </applicants>
+        <inventors>
+          <inventor sequence="1">
+            <chinese-name>齊艾蜜莉Ｈ</chinese-name>
+            <english-name>QI, EMILY H.</english-name>
+            <english-country>CN</english-country>
+            <chinese-country>中國大陸</chinese-country>
+          </inventor>
+          <inventor sequence="2">
+            <chinese-name>福丁　麥克斯</chinese-name>
+            <english-name>FUDIM, MAX</english-name>
+            <english-country>IL</english-country>
+            <chinese-country>以色列</chinese-country>
+          </inventor>
+          <inventor sequence="3">
+            <chinese-name>馬休可　克里斯坦</chinese-name>
+            <english-name>MACIOCCO, CHRISTIAN</english-name>
+            <english-country>FR</english-country>
+            <chinese-country>法國</chinese-country>
+          </inventor>
+          <inventor sequence="4">
+            <chinese-name>哈丁　麥恩Ｐ</chinese-name>
+            <english-name>HATTIG, MYRON P.</english-name>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+          </inventor>
+          <inventor sequence="5">
+            <chinese-name>慶茲伯格　伯里斯</chinese-name>
+            <english-name>GINZBURG, BORIS</english-name>
+            <english-country>IL</english-country>
+            <chinese-country>以色列</chinese-country>
+          </inventor>
+        </inventors>
+        <agents>
+          <agent sequence="1">
+            <chinese-name>惲軼群</chinese-name>
+            <english-name />
+            <address>臺北市松山區南京東路3段248號7樓</address>
+            <english-country>TW</english-country>
+            <chinese-country>中華民國</chinese-country>
+          </agent>
+          <agent sequence="2">
+            <chinese-name>陳文郎</chinese-name>
+            <english-name />
+            <address>臺北市松山區南京東路3段248號7樓</address>
+            <english-country>TW</english-country>
+            <chinese-country>中華民國</chinese-country>
+          </agent>
+        </agents>
+      </parties>
+      <classification-ipc>
+        <ipc sequence="1">
+          <ipc-full>H04W92/00</ipc-full>
+          <ipc-section>H</ipc-section>
+          <ipc-class>04</ipc-class>
+          <ipc-subclass>W</ipc-subclass>
+          <ipc-main-group>92</ipc-main-group>
+          <ipc-group>00</ipc-group>
+          <ipc-version>200901</ipc-version>
+        </ipc>
+      </classification-ipc>
+      <link>
+        <patentisuregspecxmla-url>ftp://s220ftp.tipo.gov.tw/PatentIsuRegSpecXMLA_042006/096144528.xml</patentisuregspecxmla-url>
+        <patentpubmtiff-url>ftp://s220ftp.tipo.gov.tw/PatentPubMTIFF_042006/I474749.tif</patentpubmtiff-url>
+        <patentpubxml-url>ftp://s220ftp.tipo.gov.tw/PatentPubXML_042006/4206I474749/096144528-A0305.xml</patentpubxml-url>
+        <patentisuregspecmtiff-url>ftp://s220ftp.tipo.gov.tw/PatentIsuRegSpecMTIFF_042006/096144528.tif</patentisuregspecmtiff-url>
+      </link>
+    </patentcontent>
+    <patentcontent sequence="6">
+      <publication-reference>
+        <notice-no>200842876</notice-no>
+        <notice-volno>6</notice-volno>
+        <notice-isuno>21</notice-isuno>
+        <notice-date>2008/11/01</notice-date>
+        <publish-no>I482157</publish-no>
+        <publish-volno>42</publish-volno>
+        <publish-isuno>12</publish-isuno>
+        <publish-date>2015/04/21</publish-date>
+      </publication-reference>
+      <application-reference>
+        <appl-no>096144924</appl-no>
+        <appl-date>2007/11/27</appl-date>
+        <first-date>2007/11/27</first-date>
+        <foreign-language />
+        <foreign-language-desc />
+        <appl-class>1</appl-class>
+        <appl-class-desc>發明</appl-class-desc>
+        <material-appl-date>2007/11/27</material-appl-date>
+        <material-flag>1</material-flag>
+        <faplexm-date>2013/02/27</faplexm-date>
+        <reappl-date>2013/05/03</reappl-date>
+        <raplexam-date>2014/12/30</raplexam-date>
+        <agree-flag />
+        <twins-flag />
+      </application-reference>
+      <patent-title>
+        <patent-name-chinese>快閃記憶體與相關聯方法</patent-name-chinese>
+        <patent-name-english>FLASH MEMORY AND ASSOCIATED METHODS</patent-name-english>
+      </patent-title>
+      <patent-right>
+        <licence-date>2015/04/21</licence-date>
+        <relicence-date />
+        <patent-no>I482157</patent-no>
+        <patent-bdate>2015/04/21</patent-bdate>
+        <patent-edate>2027/11/26</patent-edate>
+        <charge-expir-date>2021/04/20</charge-expir-date>
+        <charge-expir-year>6</charge-expir-year>
+        <rent-status>0</rent-status>
+        <mortgage-status>0</mortgage-status>
+        <transfer-status>0</transfer-status>
+        <inherit-status>0</inherit-status>
+        <trust-status>0</trust-status>
+        <opposition-status>0</opposition-status>
+        <nullity-status>0</nullity-status>
+        <continue-status>0</continue-status>
+        <expand-status>0</expand-status>
+        <cancel-date />
+        <cancel-result />
+        <revoke-date />
+        <revoke-code />
+        <dep-patent-class />
+        <dep-appl-no />
+      </patent-right>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>英特爾公司</chinese-name>
+            <english-name>INTEL CORPORATION</english-name>
+            <address>美國</address>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+            <english-address>2200 MISSION COLLEGE BLVD., SANTA CLARA, CA, U. S. A.</english-address>
+          </applicant>
+        </applicants>
+        <inventors>
+          <inventor sequence="1">
+            <chinese-name>艾爾姆赫斯特　丹尼爾Ｒ</chinese-name>
+            <english-name>ELMHURST, DANIEL R.</english-name>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+          </inventor>
+          <inventor sequence="2">
+            <chinese-name>聖汀　吉歐凡尼</chinese-name>
+            <english-name>SANTIN, GIOVANNI</english-name>
+            <english-country>IT</english-country>
+            <chinese-country>義大利</chinese-country>
+          </inventor>
+          <inventor sequence="3">
+            <chinese-name>印卡尼提　米歇爾</chinese-name>
+            <english-name>INCARNATI, MICHELE</english-name>
+            <english-country>IT</english-country>
+            <chinese-country>義大利</chinese-country>
+          </inventor>
+          <inventor sequence="4">
+            <chinese-name>莫斯加諾　維歐蘭特</chinese-name>
+            <english-name>MOSCHIANO, VIOLANTE</english-name>
+            <english-country>IT</english-country>
+            <chinese-country>義大利</chinese-country>
+          </inventor>
+          <inventor sequence="5">
+            <chinese-name>狄歐里奧　厄科里</chinese-name>
+            <english-name>DIIORIO, ERCOLE</english-name>
+            <english-country>IT</english-country>
+            <chinese-country>義大利</chinese-country>
+          </inventor>
+        </inventors>
+        <agents>
+          <agent sequence="1">
+            <chinese-name>惲軼群</chinese-name>
+            <english-name />
+            <address>臺北市松山區南京東路3段248號7樓</address>
+            <english-country>TW</english-country>
+            <chinese-country>中華民國</chinese-country>
+          </agent>
+          <agent sequence="2">
+            <chinese-name>陳文郎</chinese-name>
+            <english-name />
+            <address>臺北市松山區南京東路3段248號7樓</address>
+            <english-country>TW</english-country>
+            <chinese-country>中華民國</chinese-country>
+          </agent>
+        </agents>
+      </parties>
+      <classification-ipc>
+        <ipc sequence="1">
+          <ipc-full>G11C16/02</ipc-full>
+          <ipc-section>G</ipc-section>
+          <ipc-class>11</ipc-class>
+          <ipc-subclass>C</ipc-subclass>
+          <ipc-main-group>16</ipc-main-group>
+          <ipc-group>02</ipc-group>
+          <ipc-version>200601</ipc-version>
+        </ipc>
+        <ipc sequence="2">
+          <ipc-full>G11C16/10</ipc-full>
+          <ipc-section>G</ipc-section>
+          <ipc-class>11</ipc-class>
+          <ipc-subclass>C</ipc-subclass>
+          <ipc-main-group>16</ipc-main-group>
+          <ipc-group>10</ipc-group>
+          <ipc-version>200601</ipc-version>
+        </ipc>
+      </classification-ipc>
+      <link>
+        <patentisuregspecxmla-url>ftp://s220ftp.tipo.gov.tw/PatentIsuRegSpecXMLA_042012/096144924.xml</patentisuregspecxmla-url>
+        <patentpubmtiff-url>ftp://s220ftp.tipo.gov.tw/PatentPubMTIFF_042012/I482157.tif</patentpubmtiff-url>
+        <patentpubxml-url>ftp://s220ftp.tipo.gov.tw/PatentPubXML_042012/4212I482157/096144924-A0305.xml</patentpubxml-url>
+        <patentisuregspecmtiff-url>ftp://s220ftp.tipo.gov.tw/PatentIsuRegSpecMTIFF_042012/096144924.tif</patentisuregspecmtiff-url>
+      </link>
+    </patentcontent>
+    <patentcontent sequence="7">
+      <publication-reference>
+        <notice-no>200915791</notice-no>
+        <notice-volno>7</notice-volno>
+        <notice-isuno>7</notice-isuno>
+        <notice-date>2009/04/01</notice-date>
+        <publish-no>I470941</publish-no>
+        <publish-volno>42</publish-volno>
+        <publish-isuno>3</publish-isuno>
+        <publish-date>2015/01/21</publish-date>
+      </publication-reference>
+      <application-reference>
+        <appl-no>097110465</appl-no>
+        <appl-date>2008/03/25</appl-date>
+        <first-date>2008/03/25</first-date>
+        <foreign-language />
+        <foreign-language-desc />
+        <appl-class>1</appl-class>
+        <appl-class-desc>發明</appl-class-desc>
+        <material-appl-date>2011/03/23</material-appl-date>
+        <material-flag>1</material-flag>
+        <faplexm-date>2014/09/23</faplexm-date>
+        <reappl-date />
+        <raplexam-date />
+        <agree-flag />
+        <twins-flag />
+      </application-reference>
+      <patent-title>
+        <patent-name-chinese>降低最大似然多輸入多輸出（ＭＩＭＯ）ＯＦＤＭ解碼器中之計算複雜性</patent-name-chinese>
+        <patent-name-english>REDUCING COMPUTATIONAL COMPLEXITY IN MAXIMUM LIKELIHOOD MIMO OFDM DECODER</patent-name-english>
+      </patent-title>
+      <patent-right>
+        <licence-date>2015/01/21</licence-date>
+        <relicence-date />
+        <patent-no>I470941</patent-no>
+        <patent-bdate>2015/01/21</patent-bdate>
+        <patent-edate>2028/03/24</patent-edate>
+        <charge-expir-date>2022/01/20</charge-expir-date>
+        <charge-expir-year>7</charge-expir-year>
+        <rent-status>0</rent-status>
+        <mortgage-status>0</mortgage-status>
+        <transfer-status>4</transfer-status>
+        <inherit-status>0</inherit-status>
+        <trust-status>0</trust-status>
+        <opposition-status>0</opposition-status>
+        <nullity-status>0</nullity-status>
+        <continue-status>0</continue-status>
+        <expand-status>0</expand-status>
+        <cancel-date />
+        <cancel-result />
+        <revoke-date />
+        <revoke-code />
+        <dep-patent-class />
+        <dep-appl-no />
+      </patent-right>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>美商英特爾股份有限公司</chinese-name>
+            <english-name>INTEL CORPORATION</english-name>
+            <address>美國</address>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+            <english-address>2200 MISSION COLLEGE BLVD., SANTA CLARA, CA 95054, USA</english-address>
+          </applicant>
+        </applicants>
+        <inventors>
+          <inventor sequence="1">
+            <chinese-name>安霍特</chinese-name>
+            <english-name>ANHOLT, MICHA</english-name>
+            <english-country>IL</english-country>
+            <chinese-country>以色列</chinese-country>
+          </inventor>
+          <inventor sequence="2">
+            <chinese-name>傑伊倫</chinese-name>
+            <english-name>GERSON, ERAN</english-name>
+            <english-country>IL</english-country>
+            <chinese-country>以色列</chinese-country>
+          </inventor>
+          <inventor sequence="3">
+            <chinese-name>范寇比</chinese-name>
+            <english-name>VAINAPEL, KOBY</english-name>
+            <english-country>IL</english-country>
+            <chinese-country>以色列</chinese-country>
+          </inventor>
+        </inventors>
+        <agents>
+          <agent sequence="1">
+            <chinese-name>林志剛</chinese-name>
+            <english-name />
+            <address>臺北市中山區南京東路2段125號7樓</address>
+            <english-country>TW</english-country>
+            <chinese-country>中華民國</chinese-country>
+          </agent>
+        </agents>
+      </parties>
+      <classification-ipc>
+        <ipc sequence="1">
+          <ipc-full>H03M13/00</ipc-full>
+          <ipc-section>H</ipc-section>
+          <ipc-class>03</ipc-class>
+          <ipc-subclass>M</ipc-subclass>
+          <ipc-main-group>13</ipc-main-group>
+          <ipc-group>00</ipc-group>
+          <ipc-version>200601</ipc-version>
+        </ipc>
+        <ipc sequence="2">
+          <ipc-full>H04B7/04</ipc-full>
+          <ipc-section>H</ipc-section>
+          <ipc-class>04</ipc-class>
+          <ipc-subclass>B</ipc-subclass>
+          <ipc-main-group>7</ipc-main-group>
+          <ipc-group>04</ipc-group>
+          <ipc-version>200601</ipc-version>
+        </ipc>
+        <ipc sequence="3">
+          <ipc-full>H04L25/03</ipc-full>
+          <ipc-section>H</ipc-section>
+          <ipc-class>04</ipc-class>
+          <ipc-subclass>L</ipc-subclass>
+          <ipc-main-group>25</ipc-main-group>
+          <ipc-group>03</ipc-group>
+          <ipc-version>200601</ipc-version>
+        </ipc>
+      </classification-ipc>
+      <link>
+        <patentisuregspecxmla-url>ftp://s220ftp.tipo.gov.tw/PatentIsuRegSpecXMLA_042003/097110465.xml</patentisuregspecxmla-url>
+        <patentpubmtiff-url>ftp://s220ftp.tipo.gov.tw/PatentPubMTIFF_042003/I470941.tif</patentpubmtiff-url>
+        <patentpubxml-url>ftp://s220ftp.tipo.gov.tw/PatentPubXML_042003/4203I470941/097110465-A0305.xml</patentpubxml-url>
+        <patentisuregspecmtiff-url>ftp://s220ftp.tipo.gov.tw/PatentIsuRegSpecMTIFF_042003/097110465.tif</patentisuregspecmtiff-url>
+      </link>
+    </patentcontent>
+    <patentcontent sequence="8">
+      <publication-reference>
+        <notice-no>200908298</notice-no>
+        <notice-volno>7</notice-volno>
+        <notice-isuno>4</notice-isuno>
+        <notice-date>2009/02/16</notice-date>
+        <publish-no>I483386</publish-no>
+        <publish-volno>42</publish-volno>
+        <publish-isuno>13</publish-isuno>
+        <publish-date>2015/05/01</publish-date>
+      </publication-reference>
+      <application-reference>
+        <appl-no>097110585</appl-no>
+        <appl-date>2008/03/25</appl-date>
+        <first-date>2008/03/25</first-date>
+        <foreign-language />
+        <foreign-language-desc />
+        <appl-class>1</appl-class>
+        <appl-class-desc>發明</appl-class-desc>
+        <material-appl-date>2008/03/25</material-appl-date>
+        <material-flag>1</material-flag>
+        <faplexm-date>2012/10/23</faplexm-date>
+        <reappl-date>2012/12/21</reappl-date>
+        <raplexam-date>2015/01/07</raplexam-date>
+        <agree-flag />
+        <twins-flag />
+      </application-reference>
+      <patent-title>
+        <patent-name-chinese>晶載記憶體單元及其製造方法</patent-name-chinese>
+        <patent-name-english>ON-CHIP MEMORY CELL AND METHOD OF MANUFACTURING SAME</patent-name-english>
+      </patent-title>
+      <patent-right>
+        <licence-date>2015/05/01</licence-date>
+        <relicence-date />
+        <patent-no>I483386</patent-no>
+        <patent-bdate>2015/05/01</patent-bdate>
+        <patent-edate>2028/03/24</patent-edate>
+        <charge-expir-date>2021/04/30</charge-expir-date>
+        <charge-expir-year>6</charge-expir-year>
+        <rent-status>0</rent-status>
+        <mortgage-status>0</mortgage-status>
+        <transfer-status>0</transfer-status>
+        <inherit-status>0</inherit-status>
+        <trust-status>0</trust-status>
+        <opposition-status>0</opposition-status>
+        <nullity-status>0</nullity-status>
+        <continue-status>0</continue-status>
+        <expand-status>0</expand-status>
+        <cancel-date />
+        <cancel-result />
+        <revoke-date />
+        <revoke-code />
+        <dep-patent-class />
+        <dep-appl-no />
+      </patent-right>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>英特爾股份有限公司</chinese-name>
+            <english-name>INTEL CORPORATION</english-name>
+            <address>美國</address>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+            <english-address>2200 MISSION COLLEGE BLVD., SANTA CLARA, CA 95052, USA</english-address>
+          </applicant>
+        </applicants>
+        <inventors>
+          <inventor sequence="1">
+            <chinese-name>蘇門　戴塔</chinese-name>
+            <english-name>DATTA, SUMAN</english-name>
+            <english-country>IN</english-country>
+            <chinese-country>印度</chinese-country>
+          </inventor>
+          <inventor sequence="2">
+            <chinese-name>傑克　卡瓦李耶羅</chinese-name>
+            <english-name>KAVALIEROS, JACK</english-name>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+          </inventor>
+          <inventor sequence="3">
+            <chinese-name>布萊恩　道爾</chinese-name>
+            <english-name>DOYLE, BRIAN</english-name>
+            <english-country>IE</english-country>
+            <chinese-country>愛爾蘭</chinese-country>
+          </inventor>
+          <inventor sequence="4">
+            <chinese-name>丹許　索美斯卡</chinese-name>
+            <english-name>SOMASEKHAR, DINESH</english-name>
+            <english-country>IN</english-country>
+            <chinese-country>印度</chinese-country>
+          </inventor>
+          <inventor sequence="5">
+            <chinese-name>阿里　凱夏沃里</chinese-name>
+            <english-name>KESHAVARZI, ALI</english-name>
+            <english-country>IR</english-country>
+            <chinese-country>伊朗</chinese-country>
+          </inventor>
+        </inventors>
+        <agents>
+          <agent sequence="1">
+            <chinese-name>林志剛</chinese-name>
+            <english-name />
+            <address>臺北市中山區南京東路2段125號7樓</address>
+            <english-country>TW</english-country>
+            <chinese-country>中華民國</chinese-country>
+          </agent>
+        </agents>
+      </parties>
+      <classification-ipc>
+        <ipc sequence="1">
+          <ipc-full>H01L27/108</ipc-full>
+          <ipc-section>H</ipc-section>
+          <ipc-class>01</ipc-class>
+          <ipc-subclass>L</ipc-subclass>
+          <ipc-main-group>27</ipc-main-group>
+          <ipc-group>108</ipc-group>
+          <ipc-version>200601</ipc-version>
+        </ipc>
+        <ipc sequence="2">
+          <ipc-full>H01L21/8242</ipc-full>
+          <ipc-section>H</ipc-section>
+          <ipc-class>01</ipc-class>
+          <ipc-subclass>L</ipc-subclass>
+          <ipc-main-group>21</ipc-main-group>
+          <ipc-group>8242</ipc-group>
+          <ipc-version>200601</ipc-version>
+        </ipc>
+      </classification-ipc>
+      <link>
+        <patentisuregspecxmla-url>ftp://s220ftp.tipo.gov.tw/PatentIsuRegSpecXMLA_042013/097110585.xml</patentisuregspecxmla-url>
+        <patentpubmtiff-url>ftp://s220ftp.tipo.gov.tw/PatentPubMTIFF_042013/I483386.tif</patentpubmtiff-url>
+        <patentpubxml-url>ftp://s220ftp.tipo.gov.tw/PatentPubXML_042013/4213I483386/097110585-A0305.xml</patentpubxml-url>
+        <patentisuregspecmtiff-url>ftp://s220ftp.tipo.gov.tw/PatentIsuRegSpecMTIFF_042013/097110585.tif</patentisuregspecmtiff-url>
+      </link>
+    </patentcontent>
+    <patentcontent sequence="9">
+      <publication-reference>
+        <notice-no>200907924</notice-no>
+        <notice-volno>7</notice-volno>
+        <notice-isuno>4</notice-isuno>
+        <notice-date>2009/02/16</notice-date>
+        <publish-no>I470615</publish-no>
+        <publish-volno>42</publish-volno>
+        <publish-isuno>3</publish-isuno>
+        <publish-date>2015/01/21</publish-date>
+      </publication-reference>
+      <application-reference>
+        <appl-no>097111094</appl-no>
+        <appl-date>2008/03/27</appl-date>
+        <first-date>2008/03/27</first-date>
+        <foreign-language />
+        <foreign-language-desc />
+        <appl-class>1</appl-class>
+        <appl-class-desc>發明</appl-class-desc>
+        <material-appl-date>2008/03/27</material-appl-date>
+        <material-flag>1</material-flag>
+        <faplexm-date>2013/04/26</faplexm-date>
+        <reappl-date>2013/06/28</reappl-date>
+        <raplexam-date>2014/10/29</raplexam-date>
+        <agree-flag />
+        <twins-flag />
+      </application-reference>
+      <patent-title>
+        <patent-name-chinese>決定做影像亮度及背光的調整時，使用像素值的空間分佈</patent-name-chinese>
+        <patent-name-english>USING SPATIAL DISTRIBUTION OF PIXEL VALUES WHEN DETERMINING ADJUSTMENTS TO BE MADE TO IMAGE LUMINANCE AND BACKLIGHT</patent-name-english>
+      </patent-title>
+      <patent-right>
+        <licence-date>2015/01/21</licence-date>
+        <relicence-date />
+        <patent-no>I470615</patent-no>
+        <patent-bdate>2015/01/21</patent-bdate>
+        <patent-edate>2028/03/26</patent-edate>
+        <charge-expir-date>2019/01/20</charge-expir-date>
+        <charge-expir-year>4</charge-expir-year>
+        <rent-status>0</rent-status>
+        <mortgage-status>0</mortgage-status>
+        <transfer-status>0</transfer-status>
+        <inherit-status>0</inherit-status>
+        <trust-status>0</trust-status>
+        <opposition-status>0</opposition-status>
+        <nullity-status>0</nullity-status>
+        <continue-status>0</continue-status>
+        <expand-status>0</expand-status>
+        <cancel-date>2019/01/21</cancel-date>
+        <cancel-result>48105</cancel-result>
+        <revoke-date />
+        <revoke-code />
+        <dep-patent-class />
+        <dep-appl-no />
+      </patent-right>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>英特爾股份有限公司</chinese-name>
+            <english-name>INTEL CORPORATION</english-name>
+            <address>美國</address>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+            <english-address>2200 MISSION COLLEGE BLVD., SANTA CLARA, CA 95052, USA</english-address>
+          </applicant>
+        </applicants>
+        <inventors>
+          <inventor sequence="1">
+            <chinese-name>艾琴塔亞　鮑密克</chinese-name>
+            <english-name>BHOWMIK, ACHINTYA</english-name>
+            <english-country>BD</english-country>
+            <chinese-country>孟加拉</chinese-country>
+          </inventor>
+          <inventor sequence="2">
+            <chinese-name>瑪席密諾　凡斯奎茲</chinese-name>
+            <english-name>VASQUEZ, MAXIMINO</english-name>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+          </inventor>
+          <inventor sequence="3">
+            <chinese-name>張揚立</chinese-name>
+            <english-name>ZHANG, YANLI S.</english-name>
+            <english-country>CN</english-country>
+            <chinese-country>中國大陸</chinese-country>
+          </inventor>
+          <inventor sequence="4">
+            <chinese-name>克里斯汀　卡諾斯</chinese-name>
+            <english-name>KARNOS, KRISTINE</english-name>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+          </inventor>
+        </inventors>
+        <agents>
+          <agent sequence="1">
+            <chinese-name>林志剛</chinese-name>
+            <english-name />
+            <address>臺北市中山區南京東路2段125號7樓</address>
+            <english-country>TW</english-country>
+            <chinese-country>中華民國</chinese-country>
+          </agent>
+        </agents>
+      </parties>
+      <classification-ipc>
+        <ipc sequence="1">
+          <ipc-full>G09G5/02</ipc-full>
+          <ipc-section>G</ipc-section>
+          <ipc-class>09</ipc-class>
+          <ipc-subclass>G</ipc-subclass>
+          <ipc-main-group>5</ipc-main-group>
+          <ipc-group>02</ipc-group>
+          <ipc-version>200601</ipc-version>
+        </ipc>
+        <ipc sequence="2">
+          <ipc-full>G09G5/10</ipc-full>
+          <ipc-section>G</ipc-section>
+          <ipc-class>09</ipc-class>
+          <ipc-subclass>G</ipc-subclass>
+          <ipc-main-group>5</ipc-main-group>
+          <ipc-group>10</ipc-group>
+          <ipc-version>200601</ipc-version>
+        </ipc>
+        <ipc sequence="3">
+          <ipc-full>H04N9/77</ipc-full>
+          <ipc-section>H</ipc-section>
+          <ipc-class>04</ipc-class>
+          <ipc-subclass>N</ipc-subclass>
+          <ipc-main-group>9</ipc-main-group>
+          <ipc-group>77</ipc-group>
+          <ipc-version>200601</ipc-version>
+        </ipc>
+      </classification-ipc>
+      <link>
+        <patentisuregspecxmla-url>ftp://s220ftp.tipo.gov.tw/PatentIsuRegSpecXMLA_042003/097111094.xml</patentisuregspecxmla-url>
+        <patentpubmtiff-url>ftp://s220ftp.tipo.gov.tw/PatentPubMTIFF_042003/I470615.tif</patentpubmtiff-url>
+        <patentpubxml-url>ftp://s220ftp.tipo.gov.tw/PatentPubXML_042003/4203I470615/097111094-A0305.xml</patentpubxml-url>
+        <patentisuregspecmtiff-url>ftp://s220ftp.tipo.gov.tw/PatentIsuRegSpecMTIFF_042003/097111094.tif</patentisuregspecmtiff-url>
+      </link>
+    </patentcontent>
+    <patentcontent sequence="10">
+      <publication-reference>
+        <notice-no>200913274</notice-no>
+        <notice-volno>7</notice-volno>
+        <notice-isuno>6</notice-isuno>
+        <notice-date>2009/03/16</notice-date>
+        <publish-no>I483399</publish-no>
+        <publish-volno>42</publish-volno>
+        <publish-isuno>13</publish-isuno>
+        <publish-date>2015/05/01</publish-date>
+      </publication-reference>
+      <application-reference>
+        <appl-no>097116826</appl-no>
+        <appl-date>2008/05/07</appl-date>
+        <first-date>2008/05/07</first-date>
+        <foreign-language />
+        <foreign-language-desc />
+        <appl-class>1</appl-class>
+        <appl-class-desc>發明</appl-class-desc>
+        <material-appl-date>2008/05/07</material-appl-date>
+        <material-flag>1</material-flag>
+        <faplexm-date>2013/11/28</faplexm-date>
+        <reappl-date>2014/01/29</reappl-date>
+        <raplexam-date>2015/01/14</raplexam-date>
+        <agree-flag />
+        <twins-flag />
+      </application-reference>
+      <patent-title>
+        <patent-name-chinese>具有無尖端磊晶源極／汲極區域之半導體裝置</patent-name-chinese>
+        <patent-name-english>SEMICONDUCTOR DEVICE HAVING TIPLESS EPITAXIAL SOURCE/DRAIN REGIONS</patent-name-english>
+      </patent-title>
+      <patent-right>
+        <licence-date>2015/05/01</licence-date>
+        <relicence-date />
+        <patent-no>I483399</patent-no>
+        <patent-bdate>2015/05/01</patent-bdate>
+        <patent-edate>2028/05/06</patent-edate>
+        <charge-expir-date>2021/04/30</charge-expir-date>
+        <charge-expir-year>6</charge-expir-year>
+        <rent-status>0</rent-status>
+        <mortgage-status>0</mortgage-status>
+        <transfer-status>0</transfer-status>
+        <inherit-status>0</inherit-status>
+        <trust-status>0</trust-status>
+        <opposition-status>0</opposition-status>
+        <nullity-status>0</nullity-status>
+        <continue-status>0</continue-status>
+        <expand-status>0</expand-status>
+        <cancel-date />
+        <cancel-result />
+        <revoke-date />
+        <revoke-code />
+        <dep-patent-class />
+        <dep-appl-no />
+      </patent-right>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>英特爾股份有限公司</chinese-name>
+            <english-name>INTEL CORPORATION</english-name>
+            <address>美國</address>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+            <english-address>2200 MISSION COLLEGE BLVD., SANTA CLARA, CA 95052, USA</english-address>
+          </applicant>
+        </applicants>
+        <inventors>
+          <inventor sequence="1">
+            <chinese-name>馬克　鮑爾</chinese-name>
+            <english-name>BOHR, MARK</english-name>
+            <english-country>US</english-country>
+            <chinese-country>美國</chinese-country>
+          </inventor>
+        </inventors>
+        <agents>
+          <agent sequence="1">
+            <chinese-name>林志剛</chinese-name>
+            <english-name />
+            <address>臺北市中山區南京東路2段125號7樓</address>
+            <english-country>TW</english-country>
+            <chinese-country>中華民國</chinese-country>
+          </agent>
+        </agents>
+      </parties>
+      <classification-ipc>
+        <ipc sequence="1">
+          <ipc-full>H01L29/786</ipc-full>
+          <ipc-section>H</ipc-section>
+          <ipc-class>01</ipc-class>
+          <ipc-subclass>L</ipc-subclass>
+          <ipc-main-group>29</ipc-main-group>
+          <ipc-group>786</ipc-group>
+          <ipc-version>200601</ipc-version>
+        </ipc>
+        <ipc sequence="2">
+          <ipc-full>H01L21/336</ipc-full>
+          <ipc-section>H</ipc-section>
+          <ipc-class>01</ipc-class>
+          <ipc-subclass>L</ipc-subclass>
+          <ipc-main-group>21</ipc-main-group>
+          <ipc-group>336</ipc-group>
+          <ipc-version>200601</ipc-version>
+        </ipc>
+      </classification-ipc>
+      <link>
+        <patentisuregspecxmla-url>ftp://s220ftp.tipo.gov.tw/PatentIsuRegSpecXMLA_042013/097116826.xml</patentisuregspecxmla-url>
+        <patentpubmtiff-url>ftp://s220ftp.tipo.gov.tw/PatentPubMTIFF_042013/I483399.tif</patentpubmtiff-url>
+        <patentpubxml-url>ftp://s220ftp.tipo.gov.tw/PatentPubXML_042013/4213I483399/097116826-A0305.xml</patentpubxml-url>
+        <patentisuregspecmtiff-url>ftp://s220ftp.tipo.gov.tw/PatentIsuRegSpecMTIFF_042013/097116826.tif</patentisuregspecmtiff-url>
+      </link>
+    </patentcontent>
+  </tw-patent-rightsI>
+</API>
